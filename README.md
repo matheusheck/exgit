@@ -1,6 +1,6 @@
 # Exgit
 
-**TODO: Add description**
+**This is an Elixir APP to consume Github Explorer**
 
 ## Installation
 
